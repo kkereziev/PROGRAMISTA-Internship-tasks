@@ -6,7 +6,7 @@ namespace DiscountCards
 {
     public abstract class DiscountCard
     {
-        protected DiscountCard(string owner, int turnover)
+        protected DiscountCard(string owner, double turnover)
         {
             this.Owner = owner;
             this.Turnover = turnover;
@@ -14,7 +14,7 @@ namespace DiscountCards
 
         public string Owner { get; private set; }
 
-        public int Turnover { get; private set; }
+        public double Turnover { get; private set; }
 
         public abstract double DiscountRate { get; protected set; }
 

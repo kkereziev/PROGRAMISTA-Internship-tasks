@@ -12,11 +12,11 @@ namespace DiscountCards
             sb.AppendLine($"Purchase value: ${purchaseValue:f2}");
             sb.AppendLine($"Discount rate: {card.DiscountRate:f2}%");
             sb.AppendLine($"Discount: ${card.Discount(purchaseValue):f2}");
-            sb.AppendLine($"Total: ${SumTotalPurchase(purchaseValue,card):f2}");
+            sb.AppendLine($"Total: ${SumTotalPriceForPurchase(purchaseValue,card):f2}");
             return sb.ToString();
         }
 
-        private static double SumTotalPurchase(double purchaseValue, DiscountCard card)
+        private static double SumTotalPriceForPurchase(double purchaseValue, DiscountCard card)
         {
             var result = Math.Round(purchaseValue - card.Discount(purchaseValue), 2);
             return result;
