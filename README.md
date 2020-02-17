@@ -1,6 +1,6 @@
 # PROGRAMISTA-Internship-tasks
 
-The following solutions are for the interrnship tasks from PROGRAMISTA;
+The following solutions are for the internship tasks from PROGRAMISTA;
 
 Task № 1: Brothers in the Bar
 
