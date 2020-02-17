@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\PROGRAMISTA-Internship-tasks\BrothersInTheBar\BrothersInTheBar\obj\Debug\netcoreapp3.1\BrothersInTheBar.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\PROGRAMISTA-Internship-tasks\BrothersInTheBar\BrothersInTheBar\obj\Debug\netcoreapp3.1\BrothersInTheBar.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\PROGRAMISTA-Internship-tasks\BrothersInTheBar\BrothersInTheBar\obj\Debug\netcoreapp3.1\BrothersInTheBar.AssemblyInfo.cs
+C:\Users\admin\Desktop\PROGRAMISTA-Internship-tasks\BrothersInTheBar\BrothersInTheBar\bin\Debug\netcoreapp3.1\BrothersInTheBar.exe
+C:\Users\admin\Desktop\PROGRAMISTA-Internship-tasks\BrothersInTheBar\BrothersInTheBar\bin\Debug\netcoreapp3.1\BrothersInTheBar.deps.json
+C:\Users\admin\Desktop\PROGRAMISTA-Internship-tasks\BrothersInTheBar\BrothersInTheBar\bin\Debug\netcoreapp3.1\BrothersInTheBar.runtimeconfig.json
+C:\Users\admin\Desktop\PROGRAMISTA-Internship-tasks\BrothersInTheBar\BrothersInTheBar\bin\Debug\netcoreapp3.1\BrothersInTheBar.runtimeconfig.dev.json
+C:\Users\admin\Desktop\PROGRAMISTA-Internship-tasks\BrothersInTheBar\BrothersInTheBar\bin\Debug\netcoreapp3.1\BrothersInTheBar.dll
+C:\Users\admin\Desktop\PROGRAMISTA-Internship-tasks\BrothersInTheBar\BrothersInTheBar\bin\Debug\netcoreapp3.1\BrothersInTheBar.pdb
+C:\Users\admin\Desktop\PROGRAMISTA-Internship-tasks\BrothersInTheBar\BrothersInTheBar\obj\Debug\netcoreapp3.1\BrothersInTheBar.dll
+C:\Users\admin\Desktop\PROGRAMISTA-Internship-tasks\BrothersInTheBar\BrothersInTheBar\obj\Debug\netcoreapp3.1\BrothersInTheBar.pdb
